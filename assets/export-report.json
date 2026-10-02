@@ -1,0 +1,32 @@
+[
+  {
+    "file": "context.glb",
+    "bytes": 25666240,
+    "meshes": 26,
+    "faces": 296868
+  },
+  {
+    "file": "option-01.glb",
+    "bytes": 22172092,
+    "meshes": 39,
+    "faces": 525057
+  },
+  {
+    "file": "option-02.glb",
+    "bytes": 4908672,
+    "meshes": 23,
+    "faces": 678648
+  },
+  {
+    "file": "option-03.glb",
+    "bytes": 21638644,
+    "meshes": 32,
+    "faces": 430784
+  },
+  {
+    "file": "option-04.glb",
+    "bytes": 23347208,
+    "meshes": 42,
+    "faces": 530024
+  }
+]
